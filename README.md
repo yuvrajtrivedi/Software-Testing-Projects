@@ -4,10 +4,11 @@ This repository contains a list of all the projects completed during my manual t
 ## Project List
 
 | Project Name | Description | Tools Used |
-|--------------|-------------|------------|
-| BStackDemo - E-Commerce Web Application    | Performed end-to-end manual, functional, boundary, and cross-browser testing on real mobile and desktop devices. Documented test plan, test cases, defect tracking logs, and execution summary reports. | BrowserStack Live, Chrome DevTools, GitHub (Markdown) |
-| Project 2    | Tested a mobile application for compatibility across different devices. | Appium, TestLink |
-| Project 3    | Tested a desktop application for security vulnerabilities. | Burp Suite, Nessus, ZAP |
+| :--- | :--- | :--- |
+| **Project 1** | Tested a web application for functionality and usability. | JIRA, Selenium, TestRail |
+| **Project 2** | Tested a mobile application for compatibility across different devices. | Appium, TestLink |
+| **Project 3** | Tested a desktop application for security vulnerabilities. | Burp Suite, Nessus, ZAP |
+| **BStackDemo** | Performed end-to-end manual, functional, boundary, and cross-browser testing on real mobile and desktop devices. Documented test plan, test cases, defect tracking logs, and execution summary reports. | BrowserStack Live, Chrome DevTools, GitHub (Markdown) |
 
 ## Getting Started
 

@@ -23,12 +23,6 @@ If you have any feedback or suggestions for improvements, please feel free to op
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 You can copy and paste this code into a Markdown file and modify the text as needed.
 
-
-
-
-
-
-
 ## Templates
 - Test Plan
 - Test Cases
@@ -36,7 +30,6 @@ You can copy and paste this code into a Markdown file and modify the text as nee
 - RTM
 - Test Reports
 - Test Metrics
-
 
 ### Project 1
 - Test Plan
@@ -66,8 +59,6 @@ Test Plan
 I have created a Test Plan for the Project
 
 Project name: 
-What.
-
-dad
+Automation and Manual Testing
 
 

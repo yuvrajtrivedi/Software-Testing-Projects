@@ -1,64 +1,70 @@
-# Software Testing Projects
-This repository contains a list of all the projects completed during my manual testing training. The projects were completed using a combination of manual testing techniques and test management tools.
+# 🧪 Software Testing & Quality Assurance Projects Portfolio
 
-## Project List
+This repository contains a comprehensive list of all Quality Assurance and Software Testing projects completed during my training and portfolio creation. The projects demonstrate expertise in end-to-end Manual Testing, Boundary Value Analysis (BVA), Security/RBAC checks, Cross-Browser Compatibility, Defect Management, and Test Automation.
+
+---
+
+## 🚀 Project List
 
 | Project Name | Description | Tools Used |
 | :--- | :--- | :--- |
-| **Project 1** | Tested a web application for functionality and usability. | JIRA, Selenium, TestRail |
-| **Project 2** | Tested a mobile application for compatibility across different devices. | Appium, TestLink |
-| **Project 3** | Tested a desktop application for security vulnerabilities. | Burp Suite, Nessus, ZAP |
 | **BStackDemo** | Performed end-to-end manual, functional, boundary, and cross-browser testing on real mobile and desktop devices. Documented test plan, test cases, defect tracking logs, and execution summary reports. | BrowserStack Live, Chrome DevTools, GitHub (Markdown) |
+| **OrangeHRM** | Executed functional, RBAC security, and workflow testing across Admin, PIM, and Leave modules. Identified high-severity file upload validation bugs. | Jira, Chrome DevTools, GitHub (Markdown) |
+| **OpenCart** | Validated customer storefront, cart discounts (BVA/EP), guest checkout, and admin catalog management. Identified critical inventory bypass defects. | Jira, Chrome DevTools, GitHub (Markdown) |
+| **Selenium Java Automation** | *(Upcoming)* End-to-end test automation framework using Selenium WebDriver, Java, TestNG, Maven, and Page Object Model (POM) architecture. | Selenium WebDriver, Java, TestNG, Maven, IntelliJ IDEA |
 
-## Getting Started
+---
 
-To view the details of each project, simply click on the project name in the table above. The project page will contain a brief description of the project as well as a list of tools used to complete the project.
+## 📁 Repository Structure & Project Artifacts
 
-## Contributing
+### 🛒 1. BStackDemo (E-Commerce Cross-Browser)
+- [x] Test Plan (`BStackDemo/Test_Plan.md`)
+- [x] Test Cases Suite (`BStackDemo/Test_Cases.md`)
+- [x] Defect Tracking Log (`BStackDemo/Bug_Reports.md`)
+- [x] Requirements Traceability Matrix (`BStackDemo/RTM.md`)
+- [x] Test Execution Summary Report (`BStackDemo/Test_Summary_Report.md`)
+- [x] 3D Architecture Dashboard (`BStackDemo/BStackDemo_Dashboard.html`)
 
-If you have any feedback or suggestions for improvements, please feel free to open an issue or pull request.
+### 🏢 2. OrangeHRM (Enterprise HRMS)
+- [x] Test Plan (`OrangeHRM/Test_Plan.md`)
+- [x] Test Cases Suite (`OrangeHRM/Test_Cases.md`)
+- [x] Defect Tracking Log (`OrangeHRM/Bug_Reports.md`)
+- [x] Requirements Traceability Matrix (`OrangeHRM/RTM.md`)
+- [x] Test Execution Summary Report (`OrangeHRM/Test_Summary_Report.md`)
+- [x] 3D Execution Dashboard (`OrangeHRM/OrangeHRM_Dashboard.html`)
 
-## License
+### 🛍️ 3. OpenCart (E-Commerce Platform)
+- [x] Test Plan (`OpenCart/Test_Plan.md`)
+- [x] Test Cases Suite (`OpenCart/Test_Cases.md`)
+- [x] Defect Tracking Log (`OpenCart/Bug_Reports.md`)
+- [x] Requirements Traceability Matrix (`OpenCart/RTM.md`)
+- [x] Test Execution Summary Report (`OpenCart/Test_Summary_Report.md`)
+- [x] 3D Architecture Dashboard (`OpenCart/OpenCart_Dashboard.html`)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-You can copy and paste this code into a Markdown file and modify the text as needed.
+### 🤖 4. Selenium Test Automation Framework *(In Progress)*
+- [ ] Test Automation Strategy & Scope
+- [ ] Page Object Model (POM) Architecture Design
+- [ ] Automated Test Scripts (TestNG Suite)
+- [ ] Extent / TestNG Execution Reports
+- [ ] Maven `pom.xml` Dependency Management
 
-## Templates
-- Test Plan
-- Test Cases
-- Bug Report
-- RTM
-- Test Reports
-- Test Metrics
+---
 
-### Project 1
-- Test Plan
-- Test Cases
-- Bug Report
-- RTM
-- Test Reports
-- Test Metrics
+## 🏁 Getting Started
 
-### Project 2
-- Test Plan
-- Test Cases
-- Bug Report
-- RTM
-- Test Reports
-- Test Metrics
+To view the details and documentation of any project:
+1. Navigate into the specific project directory (e.g., `/OpenCart` or `/OrangeHRM`).
+2. Open the respective `.md` files for IEEE 829 standardized Test Plans, Test Cases, and Defect Reports.
+3. Screenshots of execution and defects are located in the `/screenshots` folder within each project directory.
 
-### Project 3
-- Test Plan
-- Test Cases
-- Bug Report
-- RTM
-- Test Reports
-- Test Metrics
+---
 
-Test Plan
-I have created a Test Plan for the Project
+## 🤝 Contributing
 
-Project name: 
-Automation and Manual Testing
+If you have any feedback, suggestions, or potential improvements, feel free to open an issue or submit a pull request.
 
+---
 
+## 📜 License
+
+This repository is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
